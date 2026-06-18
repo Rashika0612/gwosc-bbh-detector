@@ -28,3 +28,12 @@ Best F1: 0.866
 - Multimessenger GW+EM detection
 - NMMA/FiestaEM integration
 - Parameter estimation
+
+## Installation
+
+```bash
+git clone https://github.com/<username>/gwosc-bbh-detector.git
+cd gwosc-bbh-detector
+
+pip install -r requirements.txt
+```
